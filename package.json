@@ -1,5 +1,5 @@
 {
-  "name": "quote-box",
+  "name": "@shutterx/quote-box",
   "version": "1.0.0",
   "description": "If you feel demotivate then use this packege for motivational quotes",
   "main": "build/index.js",
