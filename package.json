@@ -1,0 +1,23 @@
+{
+  "name": "quote-box",
+  "version": "1.0.0",
+  "description": "If you feel demotivate then use this packege for motivational quotes",
+  "main": "build/index.js",
+  "type": "module",
+  "types": "build/index.d.ts",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rm -rf build && tsc"
+  },
+  "keywords": [
+    "motivational_quotes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
